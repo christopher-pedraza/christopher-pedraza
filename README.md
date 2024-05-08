@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christopher Pedraza Pohlenz</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christopher-pedraza" alt="christopher-pedraza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christopher-pedraza&theme=onedark" alt="christopher-pedraza" /></a> </p>
 
 - 🔭 I’m currently working on [D.R.E.A.M. Lab](https://github.com/CodeCraft-Solutions-DREAM-Lab) and [Señaventura](https://github.com/christopher-pedraza/segnaventuras)
 
